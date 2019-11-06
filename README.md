@@ -1,1 +1,1 @@
-# First-website-project using just HTML AND CSS
+# First-web project using just HTML AND CSS
